@@ -1,4 +1,4 @@
-import { Certifications } from "@/components/sections/certifications"
+import { Certifications } from "@/components/sections/Certifications"
 import { SiteHeader } from "@/components/site-header"
 import { Hero } from "@/components/sections/hero"
 import { Education } from "@/components/sections/education"
